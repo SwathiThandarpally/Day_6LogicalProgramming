@@ -1,0 +1,15 @@
+C:\Users\sai\source\repos\Day_6LogicalProgramming\Day_6LogicalProgramming\bin\Debug\net6.0\Day_6LogicalProgramming.exe
+C:\Users\sai\source\repos\Day_6LogicalProgramming\Day_6LogicalProgramming\bin\Debug\net6.0\Day_6LogicalProgramming.deps.json
+C:\Users\sai\source\repos\Day_6LogicalProgramming\Day_6LogicalProgramming\bin\Debug\net6.0\Day_6LogicalProgramming.runtimeconfig.json
+C:\Users\sai\source\repos\Day_6LogicalProgramming\Day_6LogicalProgramming\bin\Debug\net6.0\Day_6LogicalProgramming.dll
+C:\Users\sai\source\repos\Day_6LogicalProgramming\Day_6LogicalProgramming\bin\Debug\net6.0\Day_6LogicalProgramming.pdb
+C:\Users\sai\source\repos\Day_6LogicalProgramming\Day_6LogicalProgramming\obj\Debug\net6.0\Day_6LogicalProgramming.csproj.AssemblyReference.cache
+C:\Users\sai\source\repos\Day_6LogicalProgramming\Day_6LogicalProgramming\obj\Debug\net6.0\Day_6LogicalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sai\source\repos\Day_6LogicalProgramming\Day_6LogicalProgramming\obj\Debug\net6.0\Day_6LogicalProgramming.AssemblyInfoInputs.cache
+C:\Users\sai\source\repos\Day_6LogicalProgramming\Day_6LogicalProgramming\obj\Debug\net6.0\Day_6LogicalProgramming.AssemblyInfo.cs
+C:\Users\sai\source\repos\Day_6LogicalProgramming\Day_6LogicalProgramming\obj\Debug\net6.0\Day_6LogicalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\sai\source\repos\Day_6LogicalProgramming\Day_6LogicalProgramming\obj\Debug\net6.0\Day_6LogicalProgramming.dll
+C:\Users\sai\source\repos\Day_6LogicalProgramming\Day_6LogicalProgramming\obj\Debug\net6.0\refint\Day_6LogicalProgramming.dll
+C:\Users\sai\source\repos\Day_6LogicalProgramming\Day_6LogicalProgramming\obj\Debug\net6.0\Day_6LogicalProgramming.pdb
+C:\Users\sai\source\repos\Day_6LogicalProgramming\Day_6LogicalProgramming\obj\Debug\net6.0\Day_6LogicalProgramming.genruntimeconfig.cache
+C:\Users\sai\source\repos\Day_6LogicalProgramming\Day_6LogicalProgramming\obj\Debug\net6.0\ref\Day_6LogicalProgramming.dll
